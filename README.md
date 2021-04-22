@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nodmaterial/nodmaterial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Name
+### Name Kota Noda
 
-### profile
+### Profile
+B4 student  
+Kaggle contributor (bronze×1)  
+majoring in material informatics  
+(Molecular Dynamics, Deep learning)  
 
 

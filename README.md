@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Name Kota Noda
+### Name 
+Kota Noda (Japanese 21 years old)
 
 ### Profile
-B4 student  
+B4 student in University of Tokyo Faculty of Engineering
 Kaggle contributor (bronze×1)  
 majoring in material informatics  
 (Molecular Dynamics, Deep learning)  

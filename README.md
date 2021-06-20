@@ -18,8 +18,9 @@ Kota Noda (Japanese 21 years old)
 ### Profile
 B4 student in University of Tokyo Faculty of Engineering  
 Kaggle contributor (bronze×1)  
-majoring in material informatics  
-(Molecular Dynamics, Deep learning)  
+Majoring in material informatics  
+(Molecular Dynamics, Deep Learning)  
 
 ### Works
+Molseg(under develop ment, not released)
 

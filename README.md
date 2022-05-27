@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Kota Noda (Japanese 21 years old)
 
 ### Profile
-Graduate student in University of Tokyo School of Engineering 
+Graduate student in University of Tokyo School of Engineering  
 Department of Material engineering
 Kaggle Expert (silver×1, bronze×1)  
 Majoring in material informatics

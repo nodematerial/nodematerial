@@ -18,6 +18,8 @@ Santa 2020 - The Candy Cane Contest 80th 🥉
 
 atmacup #13 (リテールAIハッカソン 1st stage) 4th  
 
+Atcoder highest 702(algorithm)
+
 ### Researches
 卒業論文 : 画像解析と深層学習に基づく水性塗料成膜・硬化機構解明  
 Bachelor's Thesis : Elucidation of film formation and curing mechanism of water-based paint based on image analysis and deep learning

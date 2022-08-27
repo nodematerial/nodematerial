@@ -12,11 +12,12 @@ abstructure(https://github.com/nodematerial/abstructure)
 Molseg(under develop ment, not released)
 
 ### Achievements
-Kaggle Expert (silver×1, bronze×1)  
-BirdCLEF 2022 50 th🥈  
-Santa 2020 - The Candy Cane Contest 80th 🥉
+Kaggle Expert (silver×2, bronze×1)  
+BirdCLEF 2022 50 of 807 teams 🥈  
+American Express - Default Prediction 242 of 4875 teams 🥈
+Santa 2020 - The Candy Cane Contest 80 of 788 teams 🥉
 
-atmacup #13 (リテールAIハッカソン 1st stage) 4th  
+atmacup #13 (リテールAIハッカソン 1st stage) 4 of 127 teams
 
 Atcoder highest 702(algorithm)
 

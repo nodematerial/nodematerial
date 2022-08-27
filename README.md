@@ -26,8 +26,8 @@ atnacup#13 (リテールAIハッカソン 1st stage) 4 of 127 teams
 ### Atcoder
 Algorithm : highest 702
 
-### Researches
+## Researches
 卒業論文 : 画像解析と深層学習に基づく水性塗料成膜・硬化機構解明  
 Bachelor's Thesis : Elucidation of film formation and curing mechanism of water-based paint based on image analysis and deep learning
 
-### Work experience
+## Work experience

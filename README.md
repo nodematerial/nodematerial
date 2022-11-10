@@ -39,3 +39,7 @@ Bachelor's Thesis : Elucidation of film formation and curing mechanism of water-
 
 ## Work experience
 Techouse 株式会社 開発インターン 2022 09~ 
+
+## Skills
+mainly: Python3, C++, Ruby on Rails, Django, Linux  
+others: JavaScript, R, Go

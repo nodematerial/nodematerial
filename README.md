@@ -16,9 +16,9 @@ Molseg(under develop ment, not released)
 ## Achievements
 ### Kaggle 
 Competitions Expert (silver × 2, bronze × 1)  
-BirdCLEF 2022 50 of 807 teams 🥈  
+BirdCLEF 2022 50 of 807 teams 🥈(solo)
 American Express - Default Prediction 242 of 4875 teams 🥈  
-Santa 2020 - The Candy Cane Contest 80 of 788 teams 🥉
+Santa 2020 - The Candy Cane Contest 80 of 788 teams 🥉(solo)
 
 ### atmacup 
 atnacup#13 (リテールAIハッカソン 1st stage) 4 of 127 teams

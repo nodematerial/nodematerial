@@ -19,13 +19,17 @@ Molseg (under development)
 ## Achievements
 ### Kaggle 
 [Competitions Exper](https://www.kaggle.com/kotanoda) (silver🥈 × 2, bronze🥉 × 1, Highest Rank: 1076)  
-[Competitions]  
+
+[ Competitions ]  
 [BirdCLEF 2022](https://www.kaggle.com/competitions/birdclef-2022) 50 of 807 teams 🥈(solo)  
 [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction) 242 of 4875 teams 🥈  
-[Santa 2020 - The Candy Cane Contest](https://www.kaggle.com/c/santa-2020) 80 of 788 teams 🥉(solo)
+[Santa 2020 - The Candy Cane Contest](https://www.kaggle.com/c/santa-2020) 80 of 788 teams 🥉(solo)  
+
+[ Github Repositories ]  
+[Kaggle_amex](https://github.com/nodematerial/Kaggle_amex), [Kaggle_birdclef2022](https://github.com/nodematerial/Kaggle_birdclef2022)
 
 ### atmacup 
-[atnacup#13](https://www.guruguru.science/competitions/19/leaderboard) (リテールAIハッカソン 1st stage) 4 of 127 teams
+[atnacup#13](https://www.guruguru.science/competitions/19/leaderboard) (Retail AI hackathon 1st stage) 4 of 127 teams
 
 ### AtCoder
 [nodematerial](https://atcoder.jp/users/nodematerial)  

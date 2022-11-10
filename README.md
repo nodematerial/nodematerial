@@ -1,29 +1,34 @@
 ## Name 
-Kota Noda (Japanese 23 years old)
+Kota Noda (Japanese 23 years old)  
+[linkedin](https://www.linkedin.com/in/kota-noda-294b9a236/)
 
 ## Profile
 Graduate student at the University of Tokyo School of Engineering  
-Department of Material engineering  
-Majoring in Material Informatics  
-(molecular dynamics, microscophic image analysis, deep Learning)  
+Department of Material engineering M1  
+Major in material simulation&informatics and dealing with  
+* Molecular dynamics
+* Microscophic image analysis
+* Deep Learning: GNN mainly
 
 Bachelor of Engineering (the University of Tokyo 2018 ~ 2022)
 
 ## Outputs
-abstructure (https://github.com/nodematerial/abstructure)  
-Molseg(under develop ment, not released)
+[abstructure](https://github.com/nodematerial/abstructure)  
+Molseg (under development)
 
 ## Achievements
 ### Kaggle 
-Competitions Expert (silver × 2, bronze × 1)  
-BirdCLEF 2022 50 of 807 teams 🥈(solo)
-American Express - Default Prediction 242 of 4875 teams 🥈  
-Santa 2020 - The Candy Cane Contest 80 of 788 teams 🥉(solo)
+[Competitions Exper](https://www.kaggle.com/kotanoda) (silver🥈 × 2, bronze🥉 × 1, Highest Rank: 1076)  
+[Competitions]  
+[BirdCLEF 2022](https://www.kaggle.com/competitions/birdclef-2022) 50 of 807 teams 🥈(solo)  
+[American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction) 242 of 4875 teams 🥈  
+[Santa 2020 - The Candy Cane Contest](https://www.kaggle.com/c/santa-2020) 80 of 788 teams 🥉(solo)
 
 ### atmacup 
-atnacup#13 (リテールAIハッカソン 1st stage) 4 of 127 teams
+[atnacup#13](https://www.guruguru.science/competitions/19/leaderboard) (リテールAIハッカソン 1st stage) 4 of 127 teams
 
-### Atcoder
+### AtCoder
+[nodematerial](https://atcoder.jp/users/nodematerial)  
 Algorithm : highest 702
 
 ## Researches

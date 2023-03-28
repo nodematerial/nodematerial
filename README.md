@@ -11,6 +11,7 @@ Major in material simulation&informatics and dealing with
 * Deep Learning: GNN mainly
 
 Bachelor of Engineering (the University of Tokyo 2018 ~ 2022)
+Master course of Engineering (the University of Tokyo 2022 ~ 2024)
 
 ## Outputs
 [abstructure](https://github.com/nodematerial/abstructure)  
@@ -33,7 +34,7 @@ Molseg (under development)
 
 ### AtCoder
 [nodematerial](https://atcoder.jp/users/nodematerial)  
-Algorithm : highest 702
+Algorithm : highest 970
 
 ## Researches
 卒業論文 : 画像解析と深層学習に基づく水性塗料成膜・硬化機構解明  
@@ -42,8 +43,8 @@ Bachelor's Thesis : Elucidation of film formation and curing mechanism of water-
 深層⽣成モデルによる多結晶原⼦構造の特徴量抽出および復元 日本金属学会2022年秋期(第171回)講演大会　SASE Kohei, NODA Kota, SHIBUTA Yasushi
 
 ## Work experience
-Techouse 株式会社 開発インターン 2022 09~ 
+株式会社 Techouse  開発インターン 2022 09~ 
 
 ## Skills
-mainly: Python3, C++, Ruby on Rails, Django, Linux  
-others: JavaScript, R, Go
+mainly: Python3, C++, Ruby on Rails, Django
+others: JavaScript, Go

@@ -10,7 +10,7 @@ Major in material simulation&informatics and dealing with
 * Microscophic image analysis
 * Deep Learning: GNN mainly
 
-Bachelor of Engineering (the University of Tokyo 2018 ~ 2022)
+Bachelor of Engineering (the University of Tokyo 2018 ~ 2022)  
 Master course of Engineering (the University of Tokyo 2022 ~ 2024)
 
 ## Outputs
@@ -29,7 +29,7 @@ Molseg (under development)
 [ Github Repositories ]  
 [Kaggle_amex](https://github.com/nodematerial/Kaggle_amex), [Kaggle_birdclef2022](https://github.com/nodematerial/Kaggle_birdclef2022)
 
-### atmacup 
+### atmaCup 
 [atnacup#13](https://www.guruguru.science/competitions/19/leaderboard) (Retail AI hackathon 1st stage) 4 of 127 teams
 
 ### AtCoder
@@ -43,7 +43,7 @@ Bachelor's Thesis : Elucidation of film formation and curing mechanism of water-
 深層⽣成モデルによる多結晶原⼦構造の特徴量抽出および復元 日本金属学会2022年秋期(第171回)講演大会　SASE Kohei, NODA Kota, SHIBUTA Yasushi
 
 ## Work experience
-株式会社 Techouse  開発インターン 2022 09~ 
+株式会社Techouse  開発インターン 2022 09~ 
 
 ## Skills
 mainly: Python3, C++, Ruby on Rails, Django

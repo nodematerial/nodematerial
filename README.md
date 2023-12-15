@@ -41,7 +41,11 @@ Heuristic: highest 414
 卒業論文 : 画像解析と深層学習に基づく水性塗料成膜・硬化機構解明  
 Bachelor's Thesis : Elucidation of film formation and curing mechanism of water-based paint based on image analysis and deep learning
 
-深層⽣成モデルによる多結晶原⼦構造の特徴量抽出および復元 日本金属学会2022年秋期(第171回)講演大会　SASE Kohei, NODA Kota, SHIBUTA Yasushi
+深層⽣成モデルによる多結晶原⼦構造の特徴量抽出および復元 日本金属学会2022年秋期(第171回)講演大会　Kohei Sase, Kota Noda, Yasushi Shibuta
+
+グラフニューラルネットワークを使用した深層学習モデルによる分子動力学シミュレーションの物理量予測 日本金属学会2023年秋期(第173回)講演大会　Kota Noda, Yasushi Shibuta
+
+High-precision prediction of physical properties of molecular dynamic simulation using graph neural networks PRICM11 Kota Noda, Yasushi Shibuta
 
 ## Work experience
 株式会社Techouse  開発インターン 2022/09 ~ 

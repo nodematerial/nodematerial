@@ -38,8 +38,18 @@ Algorithm: highest 970
 Heuristic: highest 414
 
 ## Researches
+### Papers
+
 卒業論文 : 画像解析と深層学習に基づく水性塗料成膜・硬化機構解明  
-Bachelor's Thesis : Elucidation of film formation and curing mechanism of water-based paint based on image analysis and deep learning
+Bachelor's thesis : Elucidation of film formation and curing mechanism of water-based paint based on image analysis and deep learning  
+
+修士論文 : 深層学習による分⼦動⼒学の物理量時間発展モデル  
+
+投稿論文
+
+1. [Prediction of potential energy profiles of molecular dynamic simulation by graph convolutional networks](https://www.sciencedirect.com/science/article/pii/S0927025623004421), Kota Noda, Yasushi Shibuta. Computational Materials Science, 229:112448, 2023.
+
+### Presentations
 
 深層⽣成モデルによる多結晶原⼦構造の特徴量抽出および復元 日本金属学会2022年秋期(第171回)講演大会　Kohei Sase, Kota Noda, Yasushi Shibuta
 

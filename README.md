@@ -2,12 +2,6 @@
 Kota Noda (24 years old, Japanese)  
 
 ## Profile
-Graduate student at the University of Tokyo School of Engineering  
-Department of Material Engineering M2  
-Major in material simulation&informatics, mainly deal with  
-* Molecular dynamics
-* Microscophic image analysis
-* Deep Learning: GNN mainly
 
 Bachelor of Engineering (the University of Tokyo 2018 ~ 2022)  
 Master course of Engineering (the University of Tokyo 2022 ~ 2024)
@@ -37,6 +31,13 @@ Algorithm: highest 970
 Heuristic: highest 414
 
 ## Researches
+
+I used to major in material simulation&informatics  
+mainly deal with  
+* Molecular dynamics (Masetr)
+* Deep Learning: GNN mainly　(Masetr)
+* Microscophic image analysis (Bachelor)
+
 ### Papers
 
 卒業論文 : 画像解析と深層学習に基づく水性塗料成膜・硬化機構解明  
@@ -57,7 +58,7 @@ Bachelor's thesis : Elucidation of film formation and curing mechanism of water-
 High-precision prediction of physical properties of molecular dynamic simulation using graph neural networks PRICM11 Kota Noda, Yasushi Shibuta
 
 ## Work experience
-株式会社Techouse  開発インターン 2022/09 ~ 
+Techouse, Inc. 2022/09 ~ 
 
 ## Skills
 mainly: Python3, Ruby, C++, Ruby on Rails, Django  

@@ -1,6 +1,5 @@
 ## Name 
 Kota Noda (24 years old, Japanese)  
-[linkedin](https://www.linkedin.com/in/kota-noda-294b9a236/)
 
 ## Profile
 Graduate student at the University of Tokyo School of Engineering  

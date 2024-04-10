@@ -1,10 +1,13 @@
 ## Name 
 Kota Noda (24 years old, Japanese)  
 
-## Profile
+## Academic Background
 
 Bachelor of Engineering (the University of Tokyo 2018 ~ 2022)  
-Master course of Engineering (the University of Tokyo 2022 ~ 2024)
+Master of Engineering (the University of Tokyo 2022 ~ 2024)
+
+## Work history
+Software Engineer at Techouse, Inc. 2022/09 ~ 
 
 ## Outputs
 [MD-GNN](https://github.com/nodematerial/MD-GNN)  
@@ -57,8 +60,6 @@ Bachelor's thesis : Elucidation of film formation and curing mechanism of water-
 
 High-precision prediction of physical properties of molecular dynamic simulation using graph neural networks PRICM11 Kota Noda, Yasushi Shibuta
 
-## Work experience
-Techouse, Inc. 2022/09 ~ 
 
 ## Skills
 mainly: Python3, Ruby, C++, Ruby on Rails, Django  

@@ -48,9 +48,10 @@ Bachelor's thesis : Elucidation of film formation and curing mechanism of water-
 
 修士論文 : 深層学習による分⼦動⼒学の物理量時間発展モデル  
 
-投稿論文
+原著論文
 
-1. [Prediction of potential energy profiles of molecular dynamic simulation by graph convolutional networks](https://www.sciencedirect.com/science/article/pii/S0927025623004421), Kota Noda, Yasushi Shibuta. Computational Materials Science, 229:112448, 2023.
+1. [Prediction of potential energy profiles of molecular dynamic simulation by graph convolutional networks](https://www.sciencedirect.com/science/article/pii/S0927025623004421). Kota Noda, Yasushi Shibuta. Computational Materials Science. 229:112448, 2023.
+2. [Predicting long-term trends in physical properties from short-term molecular dynamics simulations using long short-term memory](https://iopscience.iop.org/article/10.1088/1361-648X/ad5821). Kota Noda, Yasushi Shibuta. J Phys Condens Matter. 36:385902, 2024.
 
 ### Presentations
 

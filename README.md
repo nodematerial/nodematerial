@@ -63,5 +63,5 @@ High-precision prediction of physical properties of molecular dynamic simulation
 
 
 ## Skills
-mainly: Python3, Ruby, C++, Ruby on Rails
+mainly: Python3, Ruby, C++, Ruby on Rails  
 others: JavaScript, Go

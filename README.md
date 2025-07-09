@@ -1,5 +1,5 @@
 ## Name 
-Kota Noda (24 years old, Japanese)  
+Kota Noda (26 years old, Japanese)  
 
 ## Academic Background
 
@@ -36,7 +36,7 @@ Heuristic: highest 414
 ## Researches
 
 I used to major in material simulation&informatics  
-mainly deal with  
+
 * Molecular dynamics (Masetr)
 * Deep Learning: GNN mainly　(Masetr)
 * Microscophic image analysis (Bachelor)
@@ -63,5 +63,5 @@ High-precision prediction of physical properties of molecular dynamic simulation
 
 
 ## Skills
-mainly: Python3, Ruby, C++, Ruby on Rails, Django  
+mainly: Python3, Ruby, C++, Ruby on Rails
 others: JavaScript, Go

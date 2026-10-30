@@ -1,6 +1,3 @@
-## Name 
-Kota Noda (27 years old, Japanese)  
-
 ## Career
 * Software Engineer at Techouse, Inc. 2022/09 ~ 
 * Master of Engineering (the University of Tokyo 2022 ~ 2024)

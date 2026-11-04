@@ -14,7 +14,7 @@ Ruby, Ruby on Rails, Python3, Machine Learning
 ## Researches
 
 I used to major in material simulation&informatics  
-* Molecular dynamics & Deep Learning　(Master)
+* Molecular dynamics & Deep Learning (Master)
 * Microscophic image analysis (Bachelor)
 
 ### Papers
